@@ -1,3 +1,7 @@
+
+
+{
+ "appupdater":[
 {
 "latestVersion":"1.7",
 "latestVersionCode":"7",
@@ -7,4 +11,6 @@
  "- Second evolution",
  "- Bug fixes"
  ]
+}
+  ]
 }
